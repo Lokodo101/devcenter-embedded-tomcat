@@ -16,6 +16,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\jaspe\.m2\wrapper\dists\apache-maven-3.5.2-bin\28qa8v9e2mq69covern8vmdkj0\apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1uqFi5qrYKBzRUYV3dIjpxm0cMN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -24,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.6279412" />
@@ -46,5 +53,19 @@
       <updated>1625385337452</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="194" width="1120" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630918028400">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="445" y="194" width="1120" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1630918028400" />
+    <state x="734" y="341" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1630918026807">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="734" y="341" key="#com.intellij.ide.util.TreeClassChooserDialog/62.0.1858.1080@62.0.1858.1080" timestamp="1630918026807" />
+    <state x="771" y="294" key="FileChooserDialogImpl" timestamp="1630918034775">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="771" y="294" key="FileChooserDialogImpl/62.0.1858.1080@62.0.1858.1080" timestamp="1630918034775" />
   </component>
 </project>

@@ -19,13 +19,13 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp)
             throws ServletException, IOException {
         ServletOutputStream out = resp.getOutputStream();
-        out.write("<style>".getBytes());
-        out.write("h1 {".getBytes());
-        out.write("font-family:arial,helvetica;".getBytes());
-        out.write("}".getBytes());
-        out.write("</style>".getBytes());
-
+        
+        out.write("<head>".getBytes());
+        out.write("<link rel=\"stylesheet\" href=\"home.css\">".getBytes());
+        out.write("</head>".getBytes());
+        out.write("<body>".getBytes());
         out.write("<h1 style=\"text-align:center;\"> Typing Game! </h1>".getBytes());
+        out.write("</body>".getBytes());
 
 
         out.flush();
